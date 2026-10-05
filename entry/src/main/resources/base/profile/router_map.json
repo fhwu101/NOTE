@@ -1,0 +1,19 @@
+{
+  "routerMap": [
+    {
+      "name": "addBill",
+      "pageSourceFile": "src/main/ets/pages/AddBill.ets",
+      "buildFunction": "AddBillBuilder"
+    },
+    {
+      "name": "billQuery",
+      "pageSourceFile": "src/main/ets/pages/BillQuery.ets",
+      "buildFunction": "BillQueryBuilder"
+    },
+    {
+      "name": "report",
+      "pageSourceFile": "src/main/ets/pages/Report.ets",
+      "buildFunction": "ReportBuilder"
+    }
+  ]
+}
